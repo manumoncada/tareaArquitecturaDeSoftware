@@ -4,5 +4,6 @@ public class Main {
         System.out.print("git config");
         System.out.print("hi");
         System.out.print("mother fucker");
+        System.out.print("prueba")
     }
 }
